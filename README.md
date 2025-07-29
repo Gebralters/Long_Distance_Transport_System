@@ -96,10 +96,7 @@ Comfort Cruize introduces a digital platform with the following key features:
 - **Frontend:** React (Web), React Native (Mobile)
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL or PostgreSQL
-- **Cloud & Storage:** Firebase, AWS, or DigitalOcean
-- **Authentication:** JWT or OAuth 2.0
-- **Maps/Tracking:** Google Maps API or Mapbox
-- **Chatbot & Messaging:** Dialogflow, Twilio, or WhatsApp API
+- **Maps/Tracking:** Google Maps API
 
 ---
 
@@ -109,24 +106,6 @@ Comfort Cruize introduces a digital platform with the following key features:
 - Enable dynamic route optimization for shared rides.
 - Add wallet system and in-app payments.
 - Integrate with traffic and weather APIs for ETA accuracy.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙋‍♀️ Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
-
----
-
-## 📬 Contact
-
-For questions or collaborations, reach out to the project owner via GitHub Issues or email.
 
 ---
 
