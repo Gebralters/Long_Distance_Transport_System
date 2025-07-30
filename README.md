@@ -95,7 +95,7 @@ Comfort Cruize introduces a digital platform with the following key features:
 
 - **Frontend:** React (Web), React Native (Mobile)
 - **Backend:** Node.js, Express.js
-- **Database:** MySQL or PostgreSQL
+- **Database:** MySQL
 - **Maps/Tracking:** Google Maps API
 
 ---
